@@ -1,0 +1,18 @@
+{
+  "yoloConfidence": 0.4,
+  "buffaloThreshold": 0.6,
+  "numFramesVote": 5,
+  "minVotingAgreement": 2,
+  "faceMargin": 0.25,
+  "lowLightEnhanceCLAHE": true,
+  "soundEffects": true,
+  "speechAnnouncements": true,
+  "autoContinuousScan": true,
+  "scanIntervalMs": 1200,
+  "collegeStartTime": "09:00",
+  "lateThresholdTime": "09:30",
+  "collegeEndTime": "16:35",
+  "timeZone": "Asia/Kolkata",
+  "raspberryPiIp": "192.168.1.142:8000",
+  "huggingFaceSpaceUrl": "https://huggingface.co/spaces/username/faculty-biometric-attendance"
+}

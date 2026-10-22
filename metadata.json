@@ -1,0 +1,7 @@
+{
+  "name": "ADIC Face App - AI Biometric Faculty Attendance System",
+  "description": "AI-powered biometric face recognition attendance kiosk for college faculty with real-time on-device neural detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
